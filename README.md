@@ -1,7 +1,7 @@
 # Computer Networks Coursework
 This repositorie contains my **Computer Networks** module coursework which I took as part of my Computer Science Degree during my second year at The **University of Sussex**.
 
-I have implemented the **Trivial File Transfer Protocol (TFTP)** as defined in **RFC 1350** as the requirement mentioned in this coursework.
+I have implemented the **Trivial File Transfer Protocol (TFTP)** as defined in [RFC 1350](https://www.ietf.org/rfc/rfc1350.txt) as the requirement mentioned in this coursework.
 
 The objective was to implement both the client and server of the protocol and to create a **UDP version** of the server and client as well as a **TCP version** of the server and client to show our understandings of networking.
 
