@@ -1,5 +1,5 @@
 # Computer Networks Coursework
-This repositorie contains my **Computer Networks** module coursework which I took as part of my Computer Science Degree during my second year at The **University of Sussex**.
+This repositorie contains my **Computer Networks** module coursework which I took as part of my Computer Science Degree during my second year at **The University of Sussex**.
 
 I have implemented the **Trivial File Transfer Protocol (TFTP)** as defined in [RFC 1350](https://www.ietf.org/rfc/rfc1350.txt) as the requirement mentioned in this coursework.
 
